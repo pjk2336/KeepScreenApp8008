@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeepScreen</string>
+    <string name="display_image_desc">Display Image</string>
+</resources>
